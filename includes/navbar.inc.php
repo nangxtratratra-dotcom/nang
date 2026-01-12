@@ -19,8 +19,8 @@
                         Dropdown
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="/G19bcsy3Nang/pages/auth/Login.php">login</a></li>
-                        <li><a class="dropdown-item" href="/G19bcsy3Nang/pages/auth/register.php">Register</a></li>
+                        <li><a class="dropdown-item" href="/G19bcsy3Nang/pages/Login.php">login</a></li>
+                        <li><a class="dropdown-item" href="/G19bcsy3Nang/pages/register.php">Register</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>

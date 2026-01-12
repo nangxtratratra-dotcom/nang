@@ -1,8 +1,8 @@
 <?php
-include '../../includes/header.inc.php';
+include '../includes/header.inc.php';
 ?>
 <?php
-include '../../includes/navbar.inc.php';
+include '../includes/navbar.inc.php';
 ?>
 
 <form class="col-md-10 col-lg-6 mx-auto">
@@ -24,5 +24,5 @@ include '../../includes/navbar.inc.php';
 </form>
 
 <?php
-include '../../includes/footer.inc.php';
+include '../includes/footer.inc.php';
 ?>
